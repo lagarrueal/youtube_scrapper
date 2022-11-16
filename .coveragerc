@@ -1,0 +1,2 @@
+[run]
+omit = scrapper.py, __init__.py, tests/__init__.py, Video/__init__.py
