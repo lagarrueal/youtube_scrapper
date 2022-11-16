@@ -1,5 +1,9 @@
 # youtube_scrapper
-Little Youtube scrapper made in Python with BeautifulSoup
+Little Youtube scrapper made in Python with BeautifulSoup.
+
+Takes a JSON file containing Youtube videos id in input.
+
+Takes the name of the output file containing the scrapped data as a second parameter.
 
 # RUNNING PIP
 ```pip install --upgrade pip```
