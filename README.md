@@ -3,6 +3,7 @@ Little Youtube scrapper made in Python with BeautifulSoup
 
 # RUNNING PIP
 ```pip install --upgrade pip```
+
 ```pip install -r requirements.txt```
 
 # RUN THE SCRIPT
